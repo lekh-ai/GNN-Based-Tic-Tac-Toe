@@ -29,10 +29,10 @@ TicTacToe-GNN is an AI-powered Tic Tac Toe game built using a Graph Neural Netwo
 A Graph Neural Network (GNN) is a deep learning model tailored for graph-structured data, where entities (nodes) and their relationships (edges) are central.
 
 ### How It Works:
-#### Nodes and Edges####: Nodes represent entities, and edges represent their connections.
-#### Message Passing ####: Nodes exchange information with their neighbors to update their features, capturing the graph's structure.
-#### Graph Convolution ####: Like CNNs, GNNs aggregate neighbor information to update node embeddings.
-#### Prediction ####: Final node embeddings are used to make decisions or predictions.
+#### Nodes and Edges: Nodes represent entities, and edges represent their connections.
+#### Message Passing: Nodes exchange information with their neighbors to update their features, capturing the graph's structure.
+#### Graph Convolution: Like CNNs, GNNs aggregate neighbor information to update node embeddings.
+#### Prediction: Final node embeddings are used to make decisions or predictions.
 
 In Tic Tac Toe:
 The GNN represents the board as a graph, analyzes connections between moves, and suggests the optimal next move based on the current game state.
