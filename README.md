@@ -47,7 +47,7 @@ The TicTacToe-GNN project can be deployed locally:
 
 ## UI Appearance 🖼️
 
-![TicTacToe-GNN UI](https://github.com/lekh-ai/TicTacToe-GNN/blob/main/static/images/TicTacToe-GNN_UI.png)
+![TicTacToe-GNN UI](https://github.com/lekh-ai/GNN-Based-Tic-Tac-Toe/blob/main/GNN%20TTT.png)
 
 ## Example Gameplay 🧪
 
