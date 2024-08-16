@@ -9,20 +9,20 @@ TicTacToe-GNN is an AI-powered Tic Tac Toe game built using a Graph Neural Netwo
 
 [![Deploy on Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-ffd500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/lekhsisodiya/GNNTicTacToe)
 
-
-## Features ✨
-
-- **AI-Powered Gameplay**: The GNN model suggests optimal moves during gameplay, making it a formidable opponent.
-- **Interactive UI**: The game features an interactive interface built with `ipywidgets` for seamless user interaction.
-- **Model-Driven Decisions**: The AI makes move decisions based on the current state of the board, using a pre-trained GNN model.
-
 ## Technologies Used 🛠️
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3498DB?style=for-the-badge&logo=pyg&logoColor=white)
 ![IPyWidgets](https://img.shields.io/badge/IPyWidgets-000000?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+## UI Appearance 🖼️
+![TicTacToe-GNN UI](https://github.com/lekh-ai/GNN-Based-Tic-Tac-Toe/blob/main/GNN%20TTT.png)
+
+## Features ✨
+- **AI-Powered Gameplay**: The GNN model suggests optimal moves during gameplay, making it a formidable opponent.
+- **Interactive UI**: The game features an interactive interface built with `ipywidgets` for seamless user interaction.
+- **Model-Driven Decisions**: The AI makes move decisions based on the current state of the board, using a pre-trained GNN model.
 
 
 ##Graph Neural Network (GNN) Overview 🧠
@@ -45,10 +45,6 @@ The TicTacToe-GNN project can be deployed locally:
 - Runs directly in a Jupyter Notebook.
 - Interactive UI built using `ipywidgets` for an engaging gameplay experience.
 - Also deployed in huggingface
-
-## UI Appearance 🖼️
-
-![TicTacToe-GNN UI](https://github.com/lekh-ai/GNN-Based-Tic-Tac-Toe/blob/main/GNN%20TTT.png)
 
 ## Example Gameplay 🧪
 
