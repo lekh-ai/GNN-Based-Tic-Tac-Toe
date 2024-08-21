@@ -4,7 +4,8 @@ TicTacToe-GNN is an AI-powered Tic Tac Toe game built using a Graph Neural Netwo
 
 
 
-[![Deploy on Colab TicTacToe-GNNv2](https://img.shields.io/badge/Deploy-Google_Colab%20TicTacToe-GNNv2-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1tVBCPCW0ASAxcS2SetTlouZN2ad2eRqA?usp=sharing)
+[![Deploy on Colab TicTacToe-GNNv2](https://img.shields.io/badge/Deploy%20on%20Colab-TicTacToe%20GNNv2-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1tVBCPCW0ASAxcS2SetTlouZN2ad2eRqA?usp=sharing)
+
 
 
 [![Deploy on Hugging Face- Old version](https://img.shields.io/badge/Deploy-Hugging%20FaceOld%20version-ffd500?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/lekhsisodiya/GNNTicTacToe)
